@@ -1,7 +1,7 @@
 {
   "name": "react-shop",
   "version": "0.2.0",
-  "homepage": "http://aditi-bhuteja.github.io/Shopping-Cart.git",
+  "homepage": "https://github.com/aditi-bhuteja/Shopping-Cart",
   "private": true,
   "devDependencies": {
     "gh-pages": "^2.2.0",
